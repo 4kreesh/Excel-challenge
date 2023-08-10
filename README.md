@@ -6,7 +6,7 @@
 💞️ I’m learning Data Analysis
 📫 Reach me muthukrishnan.h@gmail.com
 
-# First Assignemnt
+# First Assignment
 
 In this Excel Challeneg Repository, i have uploaded my first Excel Assignment. 
 
